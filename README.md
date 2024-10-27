@@ -6,3 +6,5 @@ Input:
    r, annual rate of interest
 Output:
    simple interest = p*t*r
+git add README.md
+git commit -m "Fix typo: Update footer to 2023"
